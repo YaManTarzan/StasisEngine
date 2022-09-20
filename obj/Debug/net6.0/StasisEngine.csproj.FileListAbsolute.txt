@@ -1,0 +1,12 @@
+C:\Users\hmp50\Downloads\Expansion\StasisEngine\bin\Debug\net6.0\StasisEngine.deps.json
+C:\Users\hmp50\Downloads\Expansion\StasisEngine\bin\Debug\net6.0\StasisEngine.dll
+C:\Users\hmp50\Downloads\Expansion\StasisEngine\bin\Debug\net6.0\StasisEngine.pdb
+C:\Users\hmp50\Downloads\Expansion\StasisEngine\obj\Debug\net6.0\StasisEngine.csproj.AssemblyReference.cache
+C:\Users\hmp50\Downloads\Expansion\StasisEngine\obj\Debug\net6.0\StasisEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmp50\Downloads\Expansion\StasisEngine\obj\Debug\net6.0\StasisEngine.AssemblyInfoInputs.cache
+C:\Users\hmp50\Downloads\Expansion\StasisEngine\obj\Debug\net6.0\StasisEngine.AssemblyInfo.cs
+C:\Users\hmp50\Downloads\Expansion\StasisEngine\obj\Debug\net6.0\StasisEngine.csproj.CoreCompileInputs.cache
+C:\Users\hmp50\Downloads\Expansion\StasisEngine\obj\Debug\net6.0\StasisEngine.dll
+C:\Users\hmp50\Downloads\Expansion\StasisEngine\obj\Debug\net6.0\refint\StasisEngine.dll
+C:\Users\hmp50\Downloads\Expansion\StasisEngine\obj\Debug\net6.0\StasisEngine.pdb
+C:\Users\hmp50\Downloads\Expansion\StasisEngine\obj\Debug\net6.0\ref\StasisEngine.dll

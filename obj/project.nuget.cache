@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vXH0JrtL1ip01zgv0HkgiqZvEC1kLYQLLzz6ME1oeH3T4odN6LVfCG0+9keQY3drzcLIM+GrE+TIVxRVUofrHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hmp50\\Downloads\\Expansion\\StasisEngine\\StasisEngine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hmp50\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}
